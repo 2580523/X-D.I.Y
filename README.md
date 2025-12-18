@@ -40,6 +40,6 @@ Transformer l’oublie en opportunité
 ## Oppération
 <img width="411" height="262,5" alt="Capture d’écran 2025-12-17 210245" src="https://github.com/user-attachments/assets/f7e4688e-55bd-478e-96fa-b667bbb50a94" />
 
-<img width="409" height="262,5" alt="Capture d’écran 2025-12-17 211525" src="https://github.com/user-attachments/assets/376806d0-9e29-46dc-95ba-ee326024405e" />
+<img width="409" height="270" alt="Capture d’écran 2025-12-17 211525" src="https://github.com/user-attachments/assets/376806d0-9e29-46dc-95ba-ee326024405e" />
 
 ### Dans cette étape nous alons mettre le projet en ligne pour que tout le monde puisse lui accéder et aussi le maintenir en cas de erreur
