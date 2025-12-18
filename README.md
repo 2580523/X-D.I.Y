@@ -10,11 +10,11 @@ Transformer l’oublie en opportunité
  L'opportunité que cela nous aide a résoudre est de combler des besoins avec des choses qu’ils n’ont plus besoin.
 ### Concept
  Éléments importants
-1. Identification des besoins
-2. Prise de photo d’élément ou objet non utilisé pour identifier des idées de création.
-3. Identification de différentes options
-4. Prise en compte des dimensions des objets
-5. Idées de créations simples et intéressantes
+1 Identification des besoins
+2 Prise de photo d’élément ou objet non utilisé pour identifier des idées de création.
+3 Identification de différentes options
+4 Prise en compte des dimensions des objets
+5 Idées de créations simples et intéressantes
    
  Choix technologique
  
