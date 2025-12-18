@@ -16,7 +16,7 @@ L'opportunité que cela nous aide a résoudre est de combler des besoins avec de
  Comment est ce que le projet réponde aux attentes du public cible
  
 #### Moodboard
-<img width="628" height="668" alt="masquotte" src="https://github.com/user-attachments/assets/db11cc94-bc6f-442a-a072-e493b63f157c" />
+<img width="1400" height="900" alt="moodboard_synthese" src="https://github.com/user-attachments/assets/00048ca3-7920-43f3-99ba-939f01d794ae" />
 
 ## Production
 
