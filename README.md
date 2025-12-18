@@ -34,6 +34,6 @@ Transformer l’oublie en opportunité
 <img width="1501" height="1001" alt="Maquette_Synthese" src="https://github.com/user-attachments/assets/62f47c0a-7537-417d-9d13-4712170fe9be" />
 
 ## Post-production
-Dans cette étape nous alons
+Dans cette étape nous alons finir et optimiser le site web afin qu'il soit agréable à parcourir
 ## Oppération
 Dans cette étape nous alons
