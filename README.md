@@ -29,7 +29,8 @@ Transformer l’oublie en opportunité
 <img width="1400" height="900" alt="moodboard_synthese" src="https://github.com/user-attachments/assets/00048ca3-7920-43f3-99ba-939f01d794ae" />
 
 ## Production
-Dans cette étape nous alons créé le site web et développé des éléments de celui-ci
+### Dans cette étape nous alons créé le site web et développé des éléments de celui-ci
+
 <img width="1501" height="1001" alt="Maquette_Synthese" src="https://github.com/user-attachments/assets/62f47c0a-7537-417d-9d13-4712170fe9be" />
 
 ## Post-production
